@@ -1,0 +1,30 @@
+header,footer {
+    background-color: rgb(65, 225, 172);
+    font-style:bold ;
+    color:rgba(7, 8, 8, 0.671);
+    padding: 5px;
+    text-align: center;
+}
+aside {
+    padding-top: 5px;
+    font-weight: bold;
+}
+.title {
+    color: rgb(17, 16, 16);
+}
+#orderedlist {
+    color: rgba(74, 196, 17, 0.671); 
+}   
+nav {
+    background-color: rgba(224, 152, 139, 0.753);
+    padding: 10px;
+    text-emphasis-color: rgb(7, 10, 10);
+}
+section, article {
+    padding: 10px;
+    background-color: rgb(240, 251, 255);
+}
+img {
+    height: 100%;
+    width: 100%;
+}
